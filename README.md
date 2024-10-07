@@ -1,4 +1,10 @@
-## Hi there 👋
+## Welcome!
+
+I'm Erich, a recent CS grad working on building skills while looking for new opportunities
+
+- I'm currently experimenting with SPA-like applications with minimal client-side code, using Go and HTMX
+- I'm interested in software design and writing code with strong foundations
+- Fun fact: I still have 6 of my baby teeth!
 
 <!--
 **ErichBerger/ErichBerger** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
